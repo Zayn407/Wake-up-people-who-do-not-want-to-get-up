@@ -1,7 +1,7 @@
 # CS362-group-project
 wake up people who don't want to get up with arduino
 
-# Team memeber
+# Team member
 Guanghao Xu-arduino 1
 Liwo Huang-arduino 2
 Shenfan Feng-arduino 3
