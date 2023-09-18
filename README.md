@@ -1,4 +1,4 @@
-# CS362-group-project
+# Wake up people who do not want to get up
 wake up people who don't want to get up with arduino
 
 # Team member
